@@ -12,6 +12,6 @@
 </head>
 <body>
     <h1><a href="${pageContext.request.contextPath}/MavenServlet?name=James">My First MavenWeb App!</a></h1>
-    <h1>${tip}</h1>
+    <h1>${tip}</h1><hr/>
 </body>
 </html>
